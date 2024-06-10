@@ -14,7 +14,6 @@ ___INFO___
   "version": 1,
   "categories": [
     "MARKETING",
-    "SALES",
     "UTILITY",
     "TAG_MANAGEMENT"
   ]
