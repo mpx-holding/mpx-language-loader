@@ -1,0 +1,5 @@
+homepage: "https://www.motionpoint.com/express"
+documentation: "https://support.motionpointexpress.com/hc/en-us"
+versions:
+  - sha: ""
+    changeNotes: "Initial release"
