@@ -12,13 +12,9 @@ ___INFO___
   "type": "TAG",
   "id": "cvt_temp_public_id",
   "version": 1,
-  "categories": [
-    "MARKETING",
-    "UTILITY",
-    "TAG_MANAGEMENT"
-  ]
   "securityGroups": [],
   "displayName": "MotionPoint Express language loader",
+  "categories": ["MARKETING", "UTILITY", "TAG_MANAGEMENT"]
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
