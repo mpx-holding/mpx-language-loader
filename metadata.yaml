@@ -1,5 +1,5 @@
 homepage: "https://www.motionpoint.com/express"
 documentation: "https://support.motionpointexpress.com/hc/en-us"
 versions:
-  - sha: "bb3b8fa446007274f77a6efa17a28fc86c96b1b4"
+  - sha: "90aae4f756a96abed6399dda4b72778413a3c98b"
     changeNotes: "Initial release"
